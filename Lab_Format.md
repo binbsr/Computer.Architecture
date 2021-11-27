@@ -1,22 +1,19 @@
 ## Students must follow following template for each and every questions on their lab assessment file.
 
-### Problem Definition
-....... a Line or two ............
-
 ### Circuit Definition
 ....... a Line or two ............
 
 ### Hardware Implementation
 ....... Combinational/Sequential Circuit ............
 
-### Function Table
+### Function Table / Truth Table
 ....... A table that explains the circuit behaviour ............
 
-### VHDL Code
+### Verilog Design Code
 ....... Code that implements the circuit behaviour ............
 
-### VHDL Test Bench
+### Verilog Test Bench
 .......Code that tests the circuit behaviour ............
 
 ### Output
-.......Modelsim output snapshots ............
+.......EDAPlayground output snapshots ............
