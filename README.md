@@ -5,6 +5,6 @@ It's CSC208 (Computer Architecture) laboratory assessment for graduate students.
 1. Circuit Design Code - https://www.youtube.com/watch?v=q1QwC3YlHG0
 1. Testbench code - https://www.youtube.com/watch?v=TtqZ-DwUYk4
 
-# Sample code for full adder
+# Sample code
 1. AND Gate - https://www.edaplayground.com/x/cgHR
 1. Full Adder - https://www.edaplayground.com/x/V8P2
