@@ -7,4 +7,5 @@ It's CSC208 (Computer Architecture) laboratory assessment for graduate students.
 
 # Sample code
 1. AND Gate - https://www.edaplayground.com/x/cgHR
-1. Full Adder - https://www.edaplayground.com/x/V8P2
+2. Half Adder - https://www.edaplayground.com/x/jEZd
+3. Full Adder - https://www.edaplayground.com/x/V8P2
